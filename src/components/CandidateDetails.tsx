@@ -36,8 +36,8 @@ const videos = [
 ];
 
 const CandidateDetails: React.FC<UserDetailsProps> = ({ Candidate }) => {
+  const [currentVideoIndex, setCurrentVideoIndex] = useState<number>(0);
   if (!Candidate) return <div>No user selected</div>;
-  const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
   const handleNextVideo = () => {
     console.log("Next clicked");
     setCurrentVideoIndex((prevIndex) =>
