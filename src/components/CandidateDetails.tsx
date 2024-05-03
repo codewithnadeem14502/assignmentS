@@ -2,7 +2,6 @@
 import { useState } from "react";
 import { Candidate } from "../utils/interfaces";
 import VideoCarousel from "./VideoCarousel";
-import Image from "next/image";
 
 interface UserDetailsProps {
   Candidate: Candidate | null;
@@ -58,7 +57,7 @@ const CandidateDetails: React.FC<UserDetailsProps> = ({ Candidate }) => {
       <div className="w-[100%] h-auto  ">
         <div className="flex justify-between items-center ">
           <div className="flex gap-2 items-center">
-            <Image
+            <img
               src={Candidate.profileImg}
               alt={Candidate.full_name}
               className="w-20 h-20 rounded-lg "
