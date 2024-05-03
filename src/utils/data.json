@@ -1,0 +1,74 @@
+{
+  "candidates": [
+    {
+      "id":1,
+      "full_name": "John Doe",
+      "email": "john@example.com",
+      "behaviour_score": 8,
+      "situation_handling": 9,
+      "communication": 7,
+      "about": "I am a dedicated and driven individual with a passion for problem-solving and teamwork.",
+      "experience": "I have over 5 years of experience in project management, where I successfully led cross-functional teams to deliver projects on time and within budget.",
+      "hobbies": "In my free time, I enjoy hiking, reading, and volunteering at local charities.",
+      "introduction": "Hello, my name is John Doe. I am excited about the opportunity to join your team and contribute my skills and experience to help achieve your organization's goals.",
+      "score": 40,
+      "profileImg": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id":2,
+      "full_name": "Jane Smith",
+      "email": "jane@example.com",
+      "behaviour_score": 9,
+      "situation_handling": 8,
+      "communication": 9,
+      "about": "I am a highly adaptable and empathetic individual with a strong commitment to delivering exceptional results.",
+      "experience": "I have a diverse background in customer service, sales, and marketing, where I have consistently exceeded targets and built strong relationships with clients.",
+      "hobbies": "Outside of work, I enjoy painting, yoga, and exploring new cuisines.",
+      "introduction": "Hi there, I'm Jane Smith. I'm thrilled about the opportunity to bring my expertise in customer relations and sales to your team and contribute to its success.",
+      "score": 80,
+      "profileImg": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id":3,
+      "full_name": "Michael ",
+      "email": "mileel@example.com",
+      "behaviour_score": 7,
+      "situation_handling": 8,
+      "communication": 8,
+      "about": "I am a detail-oriented and analytical thinker with a passion for continuous learning and improvement.",
+      "experience": "I have a background in financial analysis, where I have successfully developed and implemented strategies to optimize business performance.",
+      "hobbies": "In my spare time, I enjoy playing chess, gardening, and attending tech meetups.",
+      "introduction": "Hello, my name is Michael Johnson. I am excited about the opportunity to leverage my analytical skills and contribute to driving growth and innovation within your organization.",
+      "score": 40,
+      "profileImg": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id":4,
+      "full_name": "Emily Brown",
+      "email": "emily@example.com",
+      "behaviour_score": 9,
+      "situation_handling": 9,
+      "communication": 9,
+      "about": "I am a creative and solution-focused individual with a strong dedication to teamwork and collaboration.",
+      "experience": "I have a background in graphic design and digital marketing, where I have led successful campaigns and delivered compelling visual content.",
+      "hobbies": "Outside of work, I enjoy photography, hiking, and attending art exhibitions.",
+      "introduction": "Hi, I'm Emily Brown. I'm passionate about leveraging my creative skills to help your organization achieve its marketing objectives and connect with its audience.",
+      "score": 60,
+      "profileImg": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id":5,
+      "full_name": "David ",
+      "email": "david@example.com",
+      "behaviour_score": 8,
+      "situation_handling": 7,
+      "communication": 9,
+      "about": "I am a proactive and results-driven individual with a strong focus on delivering high-quality work and exceeding expectations.",
+      "experience": "I have extensive experience in software development, where I have contributed to the successful delivery of multiple projects and products.",
+      "hobbies": "In my free time, I enjoy coding side projects, playing guitar, and volunteering with local youth organizations.",
+      "introduction": "Hello, I'm David Wilson. I am excited about the opportunity to apply my technical expertise and contribute to the continued success of your software development team.",
+      "score": 77,
+      "profileImg": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D"
+    }
+  ]
+}
